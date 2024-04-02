@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CardGame/v17/.wsuo
+/CardGames/.vs/CardGames/FileContentIndex/c2e47a82-9e16-466c-9606-715c29af9f11.vsidx
+/CardGames/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/CardGames/obj/Debug/net8.0/CardGames.AssemblyInfo.cs
+/CardGames/obj/Debug/net8.0/CardGames.AssemblyInfoInputs.cache
+/CardGames/obj/Debug/net8.0/CardGames.assets.cache
+/CardGames/obj/Debug/net8.0/CardGames.GeneratedMSBuildEditorConfig.editorconfig
+/CardGames/obj/CardGames.csproj.nuget.dgspec.json
+/CardGames/obj/project.nuget.cache
+/CardGames/obj/project.assets.json
+/PokerConsApp/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/PokerConsApp/obj/Debug/net8.0/PokerConsApp.AssemblyInfo.cs
+/PokerConsApp/obj/Debug/net8.0/PokerConsApp.AssemblyInfoInputs.cache
+/PokerConsApp/obj/Debug/net8.0/PokerConsApp.assets.cache
+/PokerConsApp/obj/Debug/net8.0/PokerConsApp.csproj.AssemblyReference.cache
+/PokerConsApp/obj/Debug/net8.0/PokerConsApp.GeneratedMSBuildEditorConfig.editorconfig
+/PokerConsApp/obj/PokerConsApp.csproj.nuget.dgspec.json
+/PokerConsApp/obj/project.assets.json
+/PokerConsApp/obj/project.nuget.cache
